@@ -17,6 +17,8 @@ price_three = 3.148
 # Boolean
 have_paid = false
 
+puts " this is valid "
+
 
 
 
