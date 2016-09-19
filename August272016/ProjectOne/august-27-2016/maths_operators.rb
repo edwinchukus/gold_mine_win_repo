@@ -1,4 +1,4 @@
-=begin
+#=begin
 
 # Addition
 number_one = 5
@@ -34,5 +34,3 @@ number_two = 5.0000
 
 puts(number_one%number_two)
 
-
-=end
