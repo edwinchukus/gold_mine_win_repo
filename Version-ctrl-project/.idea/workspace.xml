@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb6fd9c5-72c8-4c05-a0ba-9caca81faa2d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loop_statement.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Else_if_assignment.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Version-ctrl-project.iml" afterPath="$PROJECT_DIR$/.idea/Version-ctrl-project.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Version-ctrl-project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -17,6 +19,7 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Version-ctrl-project@main_console_programme.coverage" NAME="main_console_programme Coverage Results" MODIFIED="1474205182143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/september_18092016" MODULE_NAME="Version-ctrl-project" />
+    <SUITE FILE_PATH="coverage/Version-ctrl-project@Else_if_assignment.coverage" NAME="Else_if_assignment Coverage Results" MODIFIED="1475426750133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Version-ctrl-project" />
     <SUITE FILE_PATH="coverage/Version-ctrl-project@elsif_statement.coverage" NAME="elsif_statement Coverage Results" MODIFIED="1475406988736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/september_18092016" MODULE_NAME="Version-ctrl-project" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -38,11 +41,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loop_statement.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="loop_statement.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/loop_statement.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5739645">
-              <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="40" column="2" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Else_if_assignment.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Else_if_assignment.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.21301775">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -70,6 +83,7 @@
         <option value="$PROJECT_DIR$/september_18092016/elsif_statement.rb" />
         <option value="$USER_HOME$/RubymineProjects/untitled1/while_until_loop.rb" />
         <option value="$PROJECT_DIR$/loop_statement.rb" />
+        <option value="$PROJECT_DIR$/Else_if_assignment.rb" />
       </list>
     </option>
   </component>
@@ -151,7 +165,7 @@
     <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/RubymineProjects/untitled1/while_until_loop.rb" />
   </component>
-  <component name="RunManager" selected="Ruby.elsif_statement">
+  <component name="RunManager" selected="Ruby.Else_if_assignment">
     <configuration default="false" name="main_console_programme" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Version-ctrl-project" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -181,6 +195,22 @@
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/september_18092016/elsif_statement.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Else_if_assignment" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Version-ctrl-project" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Else_if_assignment.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
@@ -295,14 +325,16 @@
       <envs />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Ruby.main_console_programme" />
       <item index="1" class="java.lang.String" itemvalue="Ruby.elsif_statement" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.Else_if_assignment" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.elsif_statement" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.main_console_programme" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Ruby.Else_if_assignment" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.elsif_statement" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.main_console_programme" />
       </list>
     </recent_temporary>
   </component>
@@ -367,14 +399,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/september_18092016/elsif_statement.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/RubymineProjects/untitled1/while_until_loop.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5739645">
@@ -393,8 +417,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/loop_statement.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5739645">
-          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="2" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/september_18092016/elsif_statement.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Else_if_assignment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21301775">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding />
         </state>
       </provider>
