@@ -1,13 +1,16 @@
 puts "What are you doing at the moment"
 
-football = gets.chomp
-if football == "wearing a jersey"
+football = gets.chomp.to_s
+
+
+if football.include?("jersey")
   puts "I am playing footbal"
-elsif football == "I am a spectator"
+elsif football.include?("spectator")
   puts "I am watching football"
-elsif football == "I am in the office"
+elsif football.include? ("office")
   puts "I am working"
-elsif football == "I am at home"
+elsif football.include?("home")
   puts "I am watching tv"
-  else puts "I don't know what you are doing"
+else
+  puts "I don't know what you are doing"
 end
