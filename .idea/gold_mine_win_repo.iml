@@ -28,15 +28,21 @@
       <method />
     </configuration>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <configuration default="false" name="camel" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="gold_mine_win_repo" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/class_work" />
 =======
+=======
+>>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
     <configuration default="false" name="casio" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="gold_mine_win_repo" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/August272016/ProjectOne/august-27-2016" />
+<<<<<<< HEAD
+>>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
+=======
 >>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
@@ -47,8 +53,11 @@
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/class_work/camel.rb" />
 =======
+=======
+>>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/August272016/ProjectOne/august-27-2016/casio.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
@@ -82,6 +91,9 @@
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/talktalk.code.rb" />
+<<<<<<< HEAD
+>>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
+=======
 >>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
