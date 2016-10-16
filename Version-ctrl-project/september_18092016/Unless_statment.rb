@@ -1,15 +1,13 @@
 
-puts "Which skin colour do not crack?"
+puts("Which skin colour do not crack?")
 skin_colour = gets.chomp.to_s
 
 
 
 
-unless
-skin_colour.eql? "black"
+unless skin_colour.eql? "black"
   puts "This skin colour is beautiful and does not crack"
 else
-  skin_colour.eql? "white"
   puts "This skin colour type cracks easily"
 end
 
