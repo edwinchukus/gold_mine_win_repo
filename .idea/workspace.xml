@@ -1,35 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6a753a1-c71f-4d34-8f75-807bf60b1cfb" name="Default" comment="">
 <<<<<<< HEAD
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/talktalk.code.rb" afterPath="$PROJECT_DIR$/talktalk.code.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="021128a6-f30f-45ac-afd6-d67d2b41c4cf" name="Default" comment="" />
 =======
 <<<<<<< HEAD
-<<<<<<< HEAD
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class_work/camel.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gold_mine_win_repo.iml" afterPath="$PROJECT_DIR$/.idea/gold_mine_win_repo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class_work/week.rb" afterPath="$PROJECT_DIR$/class_work/week.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practicework/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Practicework/.idea/workspace.xml" />
+    <list default="true" id="cf513741-e036-4d9d-b757-eeb5cb3cfac2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flower_project/detect_flower_smell.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flower_project/wild_flower.rb" />
 =======
-=======
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/else_statement_repo.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/talktalk.code.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gold_mine_win_repo.iml" afterPath="$PROJECT_DIR$/.idea/gold_mine_win_repo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/August272016/.idea/workspace.xml" afterPath="$PROJECT_DIR$/August272016/.idea/workspace.xml" />
-<<<<<<< HEAD
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
-=======
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
->>>>>>> 601849592cfc3d0ca9c19c40782445902d1c8484
+    <list default="true" id="021128a6-f30f-45ac-afd6-d67d2b41c4cf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newcastle/farm_animal.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newcastle/runner_class.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my_ruby_exercise/.idea/my_ruby_exercise.iml" afterPath="$PROJECT_DIR$/my_ruby_exercise/.idea/my_ruby_exercise.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my_ruby_exercise/.idea/vcs.xml" afterPath="$PROJECT_DIR$/my_ruby_exercise/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my_ruby_exercise/.idea/workspace.xml" afterPath="$PROJECT_DIR$/my_ruby_exercise/.idea/workspace.xml" />
+>>>>>>> c4b985e5cdf90478f72d4c30fc08dab13a6f948e
     </list>
+>>>>>>> d403350610e095401fa541422868500f2a529b90
     <ignored path="gold_mine_win_repo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -43,18 +31,12 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
 <<<<<<< HEAD
-<<<<<<< HEAD
-    <SUITE FILE_PATH="coverage/gold_mine_win_repo@camel.coverage" NAME="camel Coverage Results" MODIFIED="1475968351860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_work" MODULE_NAME="gold_mine_win_repo" />
+    <SUITE FILE_PATH="coverage/gold_mine_win_repo@wild_flower.coverage" NAME="wild_flower Coverage Results" MODIFIED="1477216326550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flower_project" MODULE_NAME="gold_mine_win_repo" />
+    <SUITE FILE_PATH="coverage/gold_mine_win_repo@detect_flower_smell.coverage" NAME="detect_flower_smell Coverage Results" MODIFIED="1477223491849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flower_project" MODULE_NAME="gold_mine_win_repo" />
 =======
-    <SUITE FILE_PATH="coverage/gold_mine_win_repo@else_statement_repo.coverage" NAME="else_statement_repo Coverage Results" MODIFIED="1475834634856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gold_mine_win_repo" />
-    <SUITE FILE_PATH="coverage/gold_mine_win_repo@talktalk_code.coverage" NAME="talktalk.code Coverage Results" MODIFIED="1476015834169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gold_mine_win_repo" />
-    <SUITE FILE_PATH="coverage/gold_mine_win_repo@casio.coverage" NAME="casio Coverage Results" MODIFIED="1475827511857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/August272016/ProjectOne/august-27-2016" MODULE_NAME="gold_mine_win_repo" />
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
-=======
-    <SUITE FILE_PATH="coverage/gold_mine_win_repo@else_statement_repo.coverage" NAME="else_statement_repo Coverage Results" MODIFIED="1475834634856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gold_mine_win_repo" />
-    <SUITE FILE_PATH="coverage/gold_mine_win_repo@talktalk_code.coverage" NAME="talktalk.code Coverage Results" MODIFIED="1475834626255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gold_mine_win_repo" />
-    <SUITE FILE_PATH="coverage/gold_mine_win_repo@casio.coverage" NAME="casio Coverage Results" MODIFIED="1475827511857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/August272016/ProjectOne/august-27-2016" MODULE_NAME="gold_mine_win_repo" />
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
+    <SUITE FILE_PATH="coverage/gold_mine_win_repo@runner_class.coverage" NAME="runner_class Coverage Results" MODIFIED="1477181905535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcastle" MODULE_NAME="gold_mine_win_repo" />
+    <SUITE FILE_PATH="coverage/gold_mine_win_repo@farm_animal.coverage" NAME="farm_animal Coverage Results" MODIFIED="1477181209944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcastle" MODULE_NAME="gold_mine_win_repo" />
+>>>>>>> c4b985e5cdf90478f72d4c30fc08dab13a6f948e
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -65,29 +47,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="talktalk.code.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/talktalk.code.rb">
+<<<<<<< HEAD
+      <file leaf-file-name="detect_flower_smell.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flower_project/detect_flower_smell.rb">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state vertical-scroll-proportion="0.728">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
 =======
-            <state vertical-scroll-proportion="0.18133333">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-<<<<<<< HEAD
+      <file leaf-file-name="farm_animal.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newcastle/farm_animal.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+>>>>>>> c4b985e5cdf90478f72d4c30fc08dab13a6f948e
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="camel.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/class_work/camel.rb">
+<<<<<<< HEAD
+      <file leaf-file-name="wild_flower.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Flower_project/wild_flower.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7506562">
-              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.7810651">
+              <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
 =======
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
->>>>>>> 601849592cfc3d0ca9c19c40782445902d1c8484
+      <file leaf-file-name="runner_class.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/newcastle/runner_class.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.28947368">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+>>>>>>> c4b985e5cdf90478f72d4c30fc08dab13a6f948e
               <folding />
             </state>
           </provider>
@@ -95,29 +85,26 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby Class Template" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/August272016/ProjectOne/august-27-2016/ruby_day_3.rb" />
 <<<<<<< HEAD
-        <option value="$PROJECT_DIR$/else_statement_repo.rb" />
-        <option value="$PROJECT_DIR$/talktalk.code.rb" />
+        <option value="$PROJECT_DIR$/Flower_project/detect_flower_smell.rb" />
+        <option value="$PROJECT_DIR$/Flower_project/wild_flower.rb" />
 =======
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/class_work/camel.rb" />
-=======
-        <option value="$PROJECT_DIR$/talktalk.code.rb" />
-        <option value="$PROJECT_DIR$/else_statement_repo.rb" />
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
-=======
-        <option value="$PROJECT_DIR$/talktalk.code.rb" />
-        <option value="$PROJECT_DIR$/else_statement_repo.rb" />
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
->>>>>>> 601849592cfc3d0ca9c19c40782445902d1c8484
+        <option value="$PROJECT_DIR$/newcastle/farm_animal.rb" />
+        <option value="$PROJECT_DIR$/newcastle/runner_class.rb" />
+>>>>>>> c4b985e5cdf90478f72d4c30fc08dab13a6f948e
       </list>
     </option>
   </component>
@@ -129,10 +116,15 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
+    <option name="width" value="1360" />
+    <option name="height" value="728" />
+=======
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
+>>>>>>> c4b985e5cdf90478f72d4c30fc08dab13a6f948e
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -157,8 +149,10 @@
       <sortByType />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
-      <pane id="Scratches" />
+=======
+>>>>>>> c4b985e5cdf90478f72d4c30fc08dab13a6f948e
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -166,20 +160,6 @@
               <option name="myItemId" value="gold_mine_win_repo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-<<<<<<< HEAD
-<<<<<<< HEAD
-              <option name="myItemId" value="class_work" />
-=======
-=======
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; ruby-2.2.5-p319 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -188,79 +168,61 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="gold_mine_win_repo" />
-<<<<<<< HEAD
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
-=======
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+<<<<<<< HEAD
+=======
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gold_mine_win_repo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gold_mine_win_repo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="Flower_project" />
+=======
+              <option name="myItemId" value="newcastle" />
+>>>>>>> c4b985e5cdf90478f72d4c30fc08dab13a6f948e
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+>>>>>>> d403350610e095401fa541422868500f2a529b90
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> c4b985e5cdf90478f72d4c30fc08dab13a6f948e
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Ruby.talktalk.code">
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-  <component name="RunManager" selected="Ruby.camel">
-=======
-  <component name="RunManager" selected="Ruby.else_statement_repo">
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
-=======
-  <component name="RunManager" selected="Ruby.else_statement_repo">
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
->>>>>>> 601849592cfc3d0ca9c19c40782445902d1c8484
-    <configuration default="false" name="All tests in gold_mine_win_repo: gold_mine_win_repo" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
-      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
-      <module name="gold_mine_win_repo" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="$MODULE_DIR$" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/{*_test,test_*}.rb" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="ALL_IN_FOLDER" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
-      <method />
-    </configuration>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <configuration default="false" name="camel" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+  <component name="RunManager" selected="Ruby.detect_flower_smell">
+    <configuration default="false" name="wild_flower" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="gold_mine_win_repo" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/class_work" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Flower_project" />
 =======
-=======
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
-    <configuration default="false" name="casio" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RunManager" selected="Ruby.runner_class">
+    <configuration default="false" name="farm_animal" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="gold_mine_win_repo" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/August272016/ProjectOne/august-27-2016" />
-<<<<<<< HEAD
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
-=======
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/newcastle" />
+>>>>>>> c4b985e5cdf90478f72d4c30fc08dab13a6f948e
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -270,35 +232,24 @@
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
 <<<<<<< HEAD
-<<<<<<< HEAD
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/class_work/camel.rb" />
-=======
-=======
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/August272016/ProjectOne/august-27-2016/casio.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Flower_project/wild_flower.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="else_statement_repo" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="detect_flower_smell" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="gold_mine_win_repo" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/else_statement_repo.rb" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Flower_project" />
+=======
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/newcastle/farm_animal.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="talktalk.code" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="runner_class" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="gold_mine_win_repo" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/newcastle" />
+>>>>>>> c4b985e5cdf90478f72d4c30fc08dab13a6f948e
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -307,11 +258,11 @@
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/talktalk.code.rb" />
 <<<<<<< HEAD
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Flower_project/detect_flower_smell.rb" />
 =======
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/newcastle/runner_class.rb" />
+>>>>>>> c4b985e5cdf90478f72d4c30fc08dab13a6f948e
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
@@ -418,134 +369,102 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <pass-parent-envs>true</pass-parent-envs>
-      <envs />
       <method />
     </configuration>
-<<<<<<< HEAD
-<<<<<<< HEAD
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in gold_mine_win_repo: gold_mine_win_repo" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.camel" />
+<<<<<<< HEAD
+      <item index="0" class="java.lang.String" itemvalue="Ruby.wild_flower" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.detect_flower_smell" />
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.camel" />
-        <item index="1" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in gold_mine_win_repo: gold_mine_win_repo" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.detect_flower_smell" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.wild_flower" />
 =======
-=======
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in gold_mine_win_repo: gold_mine_win_repo" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.casio" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.else_statement_repo" />
-      <item index="3" class="java.lang.String" itemvalue="Ruby.talktalk.code" />
+      <item index="0" class="java.lang.String" itemvalue="Ruby.farm_animal" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.runner_class" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.talktalk.code" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.else_statement_repo" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.casio" />
-        <item index="3" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in gold_mine_win_repo: gold_mine_win_repo" />
-<<<<<<< HEAD
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
-=======
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Ruby.runner_class" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.farm_animal" />
+>>>>>>> c4b985e5cdf90478f72d4c30fc08dab13a6f948e
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+<<<<<<< HEAD
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+=======
+<<<<<<< HEAD
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b6a753a1-c71f-4d34-8f75-807bf60b1cfb" name="Default" comment="" />
-      <created>1474198874216</created>
+      <changelist id="cf513741-e036-4d9d-b757-eeb5cb3cfac2" name="Default" comment="" />
+      <created>1477169311317</created>
       <option name="number" value="Default" />
-      <updated>1474198874216</updated>
+      <updated>1477169311317</updated>
+=======
+>>>>>>> d403350610e095401fa541422868500f2a529b90
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="021128a6-f30f-45ac-afd6-d67d2b41c4cf" name="Default" comment="" />
+      <created>1477175676465</created>
+      <option name="number" value="Default" />
+      <updated>1477175676465</updated>
+>>>>>>> c4b985e5cdf90478f72d4c30fc08dab13a6f948e
     </task>
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
 <<<<<<< HEAD
-    <editor active="false" />
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <editor active="false" />
+    <frame x="0" y="0" width="1360" height="728" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2635659" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295082" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
 =======
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25757575" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39933994" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32838285" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22919819" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33004925" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+>>>>>>> c4b985e5cdf90478f72d4c30fc08dab13a6f948e
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
-=======
-    <editor active="true" />
->>>>>>> 601849592cfc3d0ca9c19c40782445902d1c8484
-    <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26136363" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39933994" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32838285" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> d403350610e095401fa541422868500f2a529b90
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
@@ -554,94 +473,85 @@
       <collection />
     </option>
   </component>
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> c4b985e5cdf90478f72d4c30fc08dab13a6f948e
+>>>>>>> d403350610e095401fa541422868500f2a529b90
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="12" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/August272016/ProjectOne/august-27-2016/casio.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
 <<<<<<< HEAD
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/August272016/ProjectOne/august-27-2016/maths_operators.rb">
-=======
-    <entry file="file://$PROJECT_DIR$/August272016/ProjectOne/august-27-2016/casio.rb">
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
-=======
-    <entry file="file://$PROJECT_DIR$/August272016/ProjectOne/august-27-2016/casio.rb">
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
+    <entry file="file://$PROJECT_DIR$/Gun/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/August272016/ProjectOne/august-27-2016/maths_operators.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/August272016/ProjectOne/august-27-2016/ruby_day_3.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8752399">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Ruby/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ruby-debug-ide-0.4.32/lib/ruby-debug-ide.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3313253">
-          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/else_statement_repo.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41463414">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/August272016/ProjectOne/august-27-2016/casio.rb">
+    <entry file="file://$PROJECT_DIR$/Gun/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41463414">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/talktalk.code.rb">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state vertical-scroll-proportion="0.728">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-=======
-        <state vertical-scroll-proportion="0.18133333">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class_work/camel.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7506562">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_ruby_exercise/box_exercise.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practicework/general_concept/computation.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flower_project/detect_flower_smell.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
 =======
->>>>>>> bee879633be9ac4e239efa339eea5c9d8e1b7ede
->>>>>>> 601849592cfc3d0ca9c19c40782445902d1c8484
+    <entry file="file://$PROJECT_DIR$/newcastle/farm_animal.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+>>>>>>> c4b985e5cdf90478f72d4c30fc08dab13a6f948e
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Flower_project/wild_flower.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7810651">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+=======
+    <entry file="file://$PROJECT_DIR$/newcastle/runner_class.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28947368">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+>>>>>>> c4b985e5cdf90478f72d4c30fc08dab13a6f948e
           <folding />
         </state>
       </provider>
