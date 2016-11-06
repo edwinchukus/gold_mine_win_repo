@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c24bad6f-7bf3-436a-96ae-36de8fee522c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Mobile Phone/.idea/Mobile Phone.iml" afterPath="$PROJECT_DIR$/../Mobile Phone/.idea/Mobile Phone.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Maths_Project/runnerfile_maths.rb" afterPath="$PROJECT_DIR$/../Maths_Project/runnerfile_maths.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Mobile Phone/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Mobile Phone/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Mobile Phone/Mobile Phone Brands/phone_contract.rb" afterPath="$PROJECT_DIR$/../Mobile Phone/Mobile Phone Brands/phone_contract.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Mobile Phone/Mobile Phone Brands/phones.rb" afterPath="$PROJECT_DIR$/../Mobile Phone/Mobile Phone Brands/phones.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/transport_project.iml" afterPath="$PROJECT_DIR$/.idea/transport_project.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="transport_project.iws" />
@@ -105,7 +102,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -117,10 +113,11 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Mobile Phone" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Maths_Project" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
   </component>
@@ -363,17 +360,18 @@
       <workItem from="1478355908877" duration="32000" />
       <workItem from="1478357417137" duration="710000" />
       <workItem from="1478452149886" duration="691000" />
+      <workItem from="1478453394125" duration="126000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1433000" />
+    <option name="totallyTimeSpent" value="1559000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="47" y="24" width="1319" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="47" y="24" width="1319" height="744" extended-state="7" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26630008" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27101335" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -418,6 +416,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/runner_dir/my_runner.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/constructors/travel.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">

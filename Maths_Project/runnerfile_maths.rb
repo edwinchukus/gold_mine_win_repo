@@ -1,6 +1,4 @@
-class RunnerfileMaths
-
-  require_relative '../Maths_Project/arithmatic'
+require_relative '../Maths_Project/arithmatic'
 
   calculation = Arithmatic.new()
   #calculation.multiply_three_numbers_1
@@ -13,4 +11,3 @@ class RunnerfileMaths
 
 
 
-end
