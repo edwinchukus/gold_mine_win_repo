@@ -19,6 +19,7 @@ sport = "football"
 home = "tv"
 work = "working"
 
+cat = "moving"
 if(activity_name.eql?sport)
   puts"I am playing football"
 elsif (activity_name.eql?work)
