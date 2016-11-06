@@ -2,6 +2,7 @@ require_relative '../getters_and_setters_concept/royal_mail_parcel'
 
 puts("Enter the Length and Width")
 length = gets.chomp.to_i
+puts("Enter the Width")
 width = gets.chomp.to_i
 
 my_letter  = RoyalMailParcel.new(length, width)
@@ -15,9 +16,12 @@ puts(area)
 
 
 puts("Enter new Length?")
-my_letter.set_length(gets.chomp.to_i)
+new_length = gets.chomp.to_i
+my_letter.set_length(new_length)
 puts("Enter new width?")
-my_letter.set_width(gets.chomp.to_i)
+
+new_width = gets.chomp.to_i
+my_letter.set_width(new_width)
 
 my_letter_length_1 = my_letter.get_length
 my_letter_width_1 = my_letter.get_width
