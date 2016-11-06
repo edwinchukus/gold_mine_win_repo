@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87849b36-d59a-41a2-853d-5fe49a1455fd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Maths_Project/arithmatic.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/formula_one.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Maths_Project/runnerfile_maths.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gold_mine_win_repo.iml" afterPath="$PROJECT_DIR$/.idea/gold_mine_win_repo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="87849b36-d59a-41a2-853d-5fe49a1455fd" name="Default" comment="" />
     <ignored path="gold_mine_win_repo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
