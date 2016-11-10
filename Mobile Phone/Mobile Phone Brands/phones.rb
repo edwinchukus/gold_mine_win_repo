@@ -5,12 +5,14 @@ class Phones
   @unbranded
 
 
-def initialize( explosive ,super_phone, intermediate, unbranded )
-  @explosive = explosive
-  @super_phone = super_phone
-  @intermediate = intermediate
-  @unbranded = unbranded
-end
+  def initialize(explosive, super_phone, intermediate, unbranded )
+    @explosive = explosive
+    @super_phone = super_phone
+    @intermediate = intermediate
+    @unbranded = unbranded
+  end
+
+
 
   def making_call
     puts(" Which is your desired Phone?")
@@ -37,9 +39,11 @@ end
     end
 
   end
-def receiving_calls
-  puts ("#{@intermediate} Phone is what I am using for now and not #{@super_phone}" )
-end
+
+
+  def receiving_calls
+    puts ("#{@intermediate} Phone is what I am using for now and not #{@super_phone}" )
+  end
 
   def copy_cats
     puts ("What is your phone brand?")
@@ -54,4 +58,7 @@ end
       puts (" #{@unbranded} that are not brand names I know are all made in China ")
     end
   end
+
+
+
  end

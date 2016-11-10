@@ -6,17 +6,21 @@ class PhoneContract
     @cheaper_tarrif  = cheaper_tarrif
     @expensive_network = expensive_network
   end
+
+
   def searching_a_network_provider
     puts (@useless_network)
     puts (@overall_network)
     puts (@cheaper_tarrif)
     puts (@expensive_network)
   end
+
+
   def subscribing_yearly
     puts ("I got a year contract with #{@useless_network}" )
-
-
   end
+
+
   def subscribing_montlhy
     puts ("#{@overall_network} is very effective")
   end
