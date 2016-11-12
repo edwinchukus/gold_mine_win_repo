@@ -1,6 +1,7 @@
 require_relative '../GetSet/go_get_set'
 require_relative '../GetSet/go_get_set1'
 
+
 puts ("Enter the first number ")
 add = gets.chomp.to_i
 puts ("Enter the second number ")
@@ -79,3 +80,5 @@ puts ("#{my_twin_body_mass} is my twin actual body weight")
 print ("What is your twin desired weight and height")
 my_twin_height = body_mass.set_height(gets.chomp.to_i) - body_mass.set_weight(gets.chomp.to_i)
 puts ("#{my_twin_height} is my twins desired body weight")
+
+
