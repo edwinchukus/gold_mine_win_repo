@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddad8dea-effd-4f4f-8c00-4cd50c0603ef" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GetSet/business_calculator.rb" afterPath="$PROJECT_DIR$/GetSet/business_calculator.rb" />
-    </list>
+    <list default="true" id="ddad8dea-effd-4f4f-8c00-4cd50c0603ef" name="Default" comment="" />
     <ignored path="Getters and Setters.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -331,12 +329,12 @@
       <workItem from="1478777853854" duration="1383000" />
       <workItem from="1478779582993" duration="8462000" />
       <workItem from="1478951588412" duration="2283000" />
-      <workItem from="1479049559422" duration="1936000" />
+      <workItem from="1479049559422" duration="2149000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25438000" />
+    <option name="totallyTimeSpent" value="25651000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="4" width="1350" height="728" extended-state="0" />
