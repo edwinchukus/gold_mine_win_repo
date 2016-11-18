@@ -31,8 +31,10 @@ end
 
 
 
-my_num_combination = BusinessCalculator.new(7, 6, "/")
+my_num_combination = BusinessCalculator.new(7, 9, "+")
 
 result = my_num_combination.process_two_numbers
 
-puts(result.to_f)
+
+
+puts(result.to_i)
