@@ -16,9 +16,15 @@ class Shopping
     return @product_name.count
   end
 
-  def find_price(price)
-    p @product_price.at(price)
+  def find_price(ndex_position)
+    return @product_price.at(ndex_position)
   end
+
+
+  def get_lats_price
+    @product_price.last()
+  end
+
 
 
 end

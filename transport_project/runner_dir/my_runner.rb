@@ -2,7 +2,6 @@ require_relative '../constructors/travel'
 
 
 puts("Enter your details ")
-
 location = gets.chomp.to_s
 speed = gets.chomp.to_i
 num_tyres = gets.chomp.to_i
