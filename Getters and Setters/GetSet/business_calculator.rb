@@ -33,7 +33,17 @@ end
 
 
 
+<<<<<<< HEAD
+my_num_combination = BusinessCalculator.new(7, 9, "+")
+
+result = my_num_combination.process_two_numbers
+
+
+
+puts(result.to_i)
+=======
 my_num_combination = BusinessCalculator.new(7, 6,4,3, "/")
 
 result = my_num_combination.process_two_numbers
 puts(result.to_f)
+>>>>>>> 5545669f272799019aa0eee6d15c938683b70b35
