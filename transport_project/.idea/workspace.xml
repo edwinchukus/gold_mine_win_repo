@@ -2,20 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c24bad6f-7bf3-436a-96ae-36de8fee522c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/collections/arrays/shopping.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/collections/hashable/family.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/collections/hashable/train.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/object.oreinted.concepts/inheritance/father.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/object.oreinted.concepts/inheritance/son.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runner_dir/hashable_runner.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runner_dir/inheritance_runner.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/arrays/school.rb" afterPath="$PROJECT_DIR$/collections/arrays/school.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/getters_and_setters_concept/laptop.rb" afterPath="$PROJECT_DIR$/object.oreinted.concepts/getters_and_setters_concept/laptop.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/getters_and_setters_concept/royal_mail_parcel.rb" afterPath="$PROJECT_DIR$/object.oreinted.concepts/getters_and_setters_concept/royal_mail_parcel.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/collections/hashable/phone.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/collections/hashable/selenium.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/object.oreinted.concepts/inheritance/alumnia_student.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/object.oreinted.concepts/inheritance/bird.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/object.oreinted.concepts/inheritance/current_student.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/object.oreinted.concepts/inheritance/domestic_dove.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/object.oreinted.concepts/inheritance/dove.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/object.oreinted.concepts/inheritance/prospective_student.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runner_dir/hash_run_file.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runner_dir/inheritance_runner_file.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/transport_project.iml" afterPath="$PROJECT_DIR$/.idea/transport_project.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runner_dir/array_runner.rb" afterPath="$PROJECT_DIR$/runner_dir/array_runner.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runner_dir/my_runner.rb" afterPath="$PROJECT_DIR$/runner_dir/my_runner.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runner_dir/inheritance_runner.rb" afterPath="$PROJECT_DIR$/runner_dir/inheritance_runner.rb" />
     </list>
     <ignored path="transport_project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,9 +34,11 @@
     <SUITE FILE_PATH="coverage/transport_project@array_runner.coverage" NAME="array_runner Coverage Results" MODIFIED="1479663615159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runner_dir" MODULE_NAME="transport_project" />
     <SUITE FILE_PATH="coverage/transport_project@laptop.coverage" NAME="laptop Coverage Results" MODIFIED="1479060199227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/getters_and_setters_concept" MODULE_NAME="transport_project" />
     <SUITE FILE_PATH="coverage/transport_project@i_phone.coverage" NAME="i_phone Coverage Results" MODIFIED="1477855652565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/constructors" MODULE_NAME="transport_project" />
+    <SUITE FILE_PATH="coverage/transport_project@hash_run_file.coverage" NAME="hash_run_file Coverage Results" MODIFIED="1480259274588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runner_dir" MODULE_NAME="transport_project" />
+    <SUITE FILE_PATH="coverage/transport_project@inheritance_runner_file.coverage" NAME="inheritance_runner_file Coverage Results" MODIFIED="1480261413453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runner_dir" MODULE_NAME="transport_project" />
     <SUITE FILE_PATH="coverage/transport_project@my_runner.coverage" NAME="my_runner Coverage Results" MODIFIED="1478357464243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runner_dir" MODULE_NAME="transport_project" />
     <SUITE FILE_PATH="coverage/transport_project@runner_parcel.coverage" NAME="runner_parcel Coverage Results" MODIFIED="1478458580374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runner_dir" MODULE_NAME="transport_project" />
-    <SUITE FILE_PATH="coverage/transport_project@inheritance_runner.coverage" NAME="inheritance_runner Coverage Results" MODIFIED="1479666097525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runner_dir" MODULE_NAME="transport_project" />
+    <SUITE FILE_PATH="coverage/transport_project@inheritance_runner.coverage" NAME="inheritance_runner Coverage Results" MODIFIED="1479667740321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runner_dir" MODULE_NAME="transport_project" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -48,31 +49,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="father.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/object.oreinted.concepts/inheritance/father.rb">
+      <file leaf-file-name="inheritance_runner_file.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runner_dir/inheritance_runner_file.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+            <state relative-caret-position="184">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inheritance_runner.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runner_dir/inheritance_runner.rb">
+      <file leaf-file-name="bird.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/object.oreinted.concepts/inheritance/bird.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="138">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="son.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/object.oreinted.concepts/inheritance/son.rb">
+      <file leaf-file-name="dove.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/object.oreinted.concepts/inheritance/dove.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="138">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="domestic_dove.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/object.oreinted.concepts/inheritance/domestic_dove.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -111,9 +122,20 @@
         <option value="$PROJECT_DIR$/runner_dir/hashable_runner.rb" />
         <option value="$PROJECT_DIR$/collections/hashable/family.rb" />
         <option value="$PROJECT_DIR$/collections/hashable/train.rb" />
-        <option value="$PROJECT_DIR$/runner_dir/inheritance_runner.rb" />
         <option value="$PROJECT_DIR$/object.oreinted.concepts/inheritance/son.rb" />
         <option value="$PROJECT_DIR$/object.oreinted.concepts/inheritance/father.rb" />
+        <option value="$PROJECT_DIR$/object.oreinted.concepts/inheritance/alunia_student.rb" />
+        <option value="$PROJECT_DIR$/object.oreinted.concepts/inheritance/prospective_student.rb" />
+        <option value="$PROJECT_DIR$/object.oreinted.concepts/inheritance/current_student.rb" />
+        <option value="$PROJECT_DIR$/object.oreinted.concepts/inheritance/alumnia_student.rb" />
+        <option value="$PROJECT_DIR$/runner_dir/inheritance_runner.rb" />
+        <option value="$PROJECT_DIR$/collections/hashable/phone.rb" />
+        <option value="$PROJECT_DIR$/collections/hashable/selenium.rb" />
+        <option value="$PROJECT_DIR$/runner_dir/hash_run_file.rb" />
+        <option value="$PROJECT_DIR$/object.oreinted.concepts/inheritance/bird.rb" />
+        <option value="$PROJECT_DIR$/object.oreinted.concepts/inheritance/dove.rb" />
+        <option value="$PROJECT_DIR$/object.oreinted.concepts/inheritance/domestic_dove.rb" />
+        <option value="$PROJECT_DIR$/runner_dir/inheritance_runner_file.rb" />
       </list>
     </option>
   </component>
@@ -154,6 +176,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -207,10 +230,6 @@
               <option name="myItemId" value="object.oreinted.concepts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getters_and_setters_concept" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -225,7 +244,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -241,45 +259,7 @@
       <recent name="$PROJECT_DIR$/collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Ruby.inheritance_runner">
-    <configuration default="false" name="laptop" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="transport_project" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/object.oreinted.concepts/getters_and_setters_concept" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/object.oreinted.concepts/getters_and_setters_concept/laptop.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method />
-    </configuration>
-    <configuration default="false" name="array_runner" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="transport_project" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/runner_dir" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/runner_dir/array_runner.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Ruby.inheritance_runner_file">
     <configuration default="false" name="testrun" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="transport_project" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -334,6 +314,44 @@
         </COVERAGE_PATTERN>
       </EXTENSION>
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/runner_dir/inheritance_runner.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="hash_run_file" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="transport_project" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/runner_dir" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/runner_dir/hash_run_file.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="inheritance_runner_file" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="transport_project" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/runner_dir" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/runner_dir/inheritance_runner_file.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
@@ -469,19 +487,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.laptop" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.array_runner" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.testrun" />
-      <item index="3" class="java.lang.String" itemvalue="Ruby.hashable_runner" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.inheritance_runner" />
+      <item index="0" class="java.lang.String" itemvalue="Ruby.testrun" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.hashable_runner" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.inheritance_runner" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.hash_run_file" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.inheritance_runner_file" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.inheritance_runner" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.hashable_runner" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.array_runner" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.testrun" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.laptop" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.inheritance_runner_file" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.hash_run_file" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.inheritance_runner" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.hashable_runner" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.testrun" />
       </list>
     </recent_temporary>
   </component>
@@ -505,7 +523,8 @@
       <workItem from="1479058094226" duration="4920000" />
       <workItem from="1479193276489" duration="382000" />
       <workItem from="1479193765968" duration="944000" />
-      <workItem from="1479661984851" duration="4326000" />
+      <workItem from="1479661984851" duration="5881000" />
+      <workItem from="1480257468000" duration="4177000" />
     </task>
     <task id="LOCAL-00001" summary="Updated our Ruby Code on Getters and Setters">
       <created>1478457525013</created>
@@ -518,22 +537,22 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17717000" />
+    <option name="totallyTimeSpent" value="23449000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="24" width="1319" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2238806" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22780833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32847896" sideWeight="0.35113904" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41747573" sideWeight="0.27651218" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.71013355" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32847896" sideWeight="0.64886093" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.63707775" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.4972506" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.4941084" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41747573" sideWeight="0.6669285" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41747573" sideWeight="0.7234878" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -586,17 +605,39 @@
           <line>3</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/runner_dir/inheritance_runner.rb</url>
+          <line>10</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/runner_dir/hash_run_file.rb</url>
+          <line>2</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/runner_dir/inheritance_runner_file.rb</url>
+          <line>3</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="13" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/object.oreinted.concepts/inheritance/father.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/collections/arrays/school.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -620,7 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -644,7 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -754,14 +793,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/runner_dir/testrun.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/runner_dir/testrun.rb" />
     <entry file="file://$PROJECT_DIR$/runner_dir/my_runner.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -782,7 +814,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -798,15 +829,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runner_dir/hashable_runner.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -814,7 +836,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -822,6 +843,94 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object.oreinted.concepts/inheritance/alunia_student.rb" />
+    <entry file="file://$PROJECT_DIR$/object.oreinted.concepts/inheritance/son.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object.oreinted.concepts/inheritance/father.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object.oreinted.concepts/inheritance/alumnia_student.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner_dir/hashable_runner.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object.oreinted.concepts/inheritance/current_student.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner_dir/inheritance_runner.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object.oreinted.concepts/inheritance/prospective_student.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collections/hashable/selenium.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collections/hashable/phone.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner_dir/hash_run_file.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object.oreinted.concepts/inheritance/domestic_dove.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -834,26 +943,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/object.oreinted.concepts/inheritance/father.rb">
+    <entry file="file://$PROJECT_DIR$/runner_dir/inheritance_runner_file.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        <state relative-caret-position="184">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/runner_dir/inheritance_runner.rb">
+    <entry file="file://$PROJECT_DIR$/object.oreinted.concepts/inheritance/bird.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state relative-caret-position="138">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/object.oreinted.concepts/inheritance/son.rb">
+    <entry file="file://$PROJECT_DIR$/object.oreinted.concepts/inheritance/dove.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="138">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="19" />
           <folding />
         </state>
       </provider>
