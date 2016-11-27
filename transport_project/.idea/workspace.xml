@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c24bad6f-7bf3-436a-96ae-36de8fee522c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/collections/hashable/phone.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/collections/hashable/selenium.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/object.oreinted.concepts/inheritance/alumnia_student.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/object.oreinted.concepts/inheritance/bird.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/object.oreinted.concepts/inheritance/current_student.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/object.oreinted.concepts/inheritance/domestic_dove.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/object.oreinted.concepts/inheritance/dove.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/object.oreinted.concepts/inheritance/prospective_student.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runner_dir/hash_run_file.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runner_dir/inheritance_runner_file.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/transport_project.iml" afterPath="$PROJECT_DIR$/.idea/transport_project.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Getters and Setters/Inheritance/Doginheritance.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Getters and Setters/Inheritance/implicit.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Getters and Setters/Inheritance/mammals.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Getters and Setters/Inheritance/origin.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Getters and Setters/Inheritance/parents_altered.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Reader and Writer/attribute_reader_and_writer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tester/runner_file_tester.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Tester/triangle.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/gold_mine_win_repo.iml" afterPath="$PROJECT_DIR$/../.idea/gold_mine_win_repo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/runConfigurations/formula_one.xml" afterPath="$PROJECT_DIR$/../.idea/runConfigurations/formula_one.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Getters and Setters/.idea/Getters and Setters.iml" afterPath="$PROJECT_DIR$/../Getters and Setters/.idea/Getters and Setters.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runner_dir/inheritance_runner.rb" afterPath="$PROJECT_DIR$/runner_dir/inheritance_runner.rb" />
     </list>
     <ignored path="transport_project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -524,7 +524,7 @@
       <workItem from="1479193276489" duration="382000" />
       <workItem from="1479193765968" duration="944000" />
       <workItem from="1479661984851" duration="5881000" />
-      <workItem from="1480257468000" duration="4177000" />
+      <workItem from="1480257468000" duration="4297000" />
     </task>
     <task id="LOCAL-00001" summary="Updated our Ruby Code on Getters and Setters">
       <created>1478457525013</created>
@@ -537,7 +537,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23449000" />
+    <option name="totallyTimeSpent" value="23569000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="24" width="1319" height="744" extended-state="6" />
