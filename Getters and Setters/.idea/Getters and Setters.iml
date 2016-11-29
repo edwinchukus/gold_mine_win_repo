@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="RUBY_MODULE" version="4">
   <component name="ModuleRunConfigurationManager">
+<<<<<<< HEAD
     <configuration default="false" name="morre_inheritance_runner" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+=======
+<<<<<<< HEAD
+    <configuration default="false" name="aldi_array" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+=======
+    <configuration default="false" name="Doginheritance" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+>>>>>>> c35faa33efbee4402f70888eb1006a4b5be545b8
+>>>>>>> 72dad993194aade2a37b0b4b7304288fbeb49f56
       <module name="Getters and Setters" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/More_Inheritance" />
@@ -12,11 +20,23 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+<<<<<<< HEAD
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/More_Inheritance/morre_inheritance_runner.rb" />
+=======
+<<<<<<< HEAD
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/GetSet/aldi_array.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="array_runner" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+=======
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Inheritance/Doginheritance.rb" />
+>>>>>>> 72dad993194aade2a37b0b4b7304288fbeb49f56
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
     <configuration default="false" name="implicit" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+>>>>>>> c35faa33efbee4402f70888eb1006a4b5be545b8
       <module name="Getters and Setters" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Inheritance" />
@@ -27,7 +47,11 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+<<<<<<< HEAD
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/GetSet/array_runner.rb" />
+=======
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Inheritance/implicit.rb" />
+>>>>>>> c35faa33efbee4402f70888eb1006a4b5be545b8
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
@@ -46,7 +70,11 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
+<<<<<<< HEAD
+    <configuration default="false" name="business_calculator" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+=======
     <configuration default="false" name="origin" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+>>>>>>> c35faa33efbee4402f70888eb1006a4b5be545b8
       <module name="Getters and Setters" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Inheritance" />
@@ -57,11 +85,19 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+<<<<<<< HEAD
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/GetSet/business_calculator.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="get_and_set_runner_file" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+=======
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Inheritance/origin.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
     <configuration default="false" name="parents_altered" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+>>>>>>> c35faa33efbee4402f70888eb1006a4b5be545b8
       <module name="Getters and Setters" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Inheritance" />
@@ -72,7 +108,11 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+<<<<<<< HEAD
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/GetSet/get_and_set_runner_file.rb" />
+=======
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Inheritance/parents_altered.rb" />
+>>>>>>> c35faa33efbee4402f70888eb1006a4b5be545b8
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
