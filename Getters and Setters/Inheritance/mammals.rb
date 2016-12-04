@@ -1,7 +1,7 @@
 class Mammals
 
 def breathing
-  puts ("Put we all breathe out and breathe in")
+  puts ("we all breathe out and breathe in")
 end
 
 
@@ -10,15 +10,17 @@ end
 class Human < Mammals
 
   def eat
-    puts super  + ("we get weak and feeble and die")
+
+    puts ("we get weak and feeble and die")
 
   end
 end
 
-class Baboon < Mammals
+class Baboon < Human
 
   def walk
-    puts super + ("are among the higher developed animals")
+
+    puts ("are among the higher developed animals")
   end
 
 end
@@ -28,5 +30,7 @@ elephant = Mammals.new
 elephant.breathing
 chidi = Human.new
 chidi.breathing
+chidi.eat
 orangutan = Baboon.new
 orangutan.breathing
+orangutan.eat

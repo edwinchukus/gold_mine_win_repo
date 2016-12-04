@@ -4,7 +4,7 @@ class Implicit
   end
 end
 
-class Explicit
+class Explicit < Implicit
    def champion
      puts "I am not a loser"
    end

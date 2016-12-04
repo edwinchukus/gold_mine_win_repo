@@ -19,8 +19,9 @@ class Son < Origin
   end
 
   def mother
-    puts " I delivered my son"
+
     super
+    puts " I delivered my son"
     puts "He is our world"
   end
 end

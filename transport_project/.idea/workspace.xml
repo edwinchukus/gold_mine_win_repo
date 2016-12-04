@@ -2,7 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c24bad6f-7bf3-436a-96ae-36de8fee522c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Academics/company.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Academics/my_certificates.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Academics/runner_file_company.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Getters and Setters/Hashables/Hashable_runner.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Getters and Setters/Hashables/farm_animals.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Getters and Setters/Inheritance/Module.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Getters and Setters/More_Inheritance/brandy.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Getters and Setters/More_Inheritance/drinks.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Getters and Setters/More_Inheritance/morre_inheritance_runner.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Hashes and Inheritance/bmw.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Hashes and Inheritance/hashes.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Hashes and Inheritance/runner_file_hash.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Hashes and Inheritance/runner_file_inheritance.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Hashes and Inheritance/toyota.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Hashes and Inheritance/vehicle.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../year_old.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../untitled/.idea/.name" afterPath="$PROJECT_DIR$/../Documents/.idea/.name" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Documents/.idea/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterPath="$PROJECT_DIR$/../Documents/.idea/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterPath="$PROJECT_DIR$/../Documents/.idea/untitled.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../Documents/.idea/vcs.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Documents/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../untitled/Persol Practice/calc.rb" afterPath="$PROJECT_DIR$/../Documents/Persol Practice/calc.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../untitled/person.rb" afterPath="$PROJECT_DIR$/../Documents/person.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/gold_mine_win_repo.iml" afterPath="$PROJECT_DIR$/../.idea/gold_mine_win_repo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/runConfigurations/formula_one.xml" afterPath="$PROJECT_DIR$/../.idea/runConfigurations/formula_one.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Getters and Setters/.idea/Getters and Setters.iml" afterPath="$PROJECT_DIR$/../Getters and Setters/.idea/Getters and Setters.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Getters and Setters/Inheritance/implicit.rb" afterPath="$PROJECT_DIR$/../Getters and Setters/Inheritance/implicit.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Getters and Setters/Inheritance/mammals.rb" afterPath="$PROJECT_DIR$/../Getters and Setters/Inheritance/mammals.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Getters and Setters/Inheritance/origin.rb" afterPath="$PROJECT_DIR$/../Getters and Setters/Inheritance/origin.rb" />
     </list>
     <ignored path="transport_project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -481,7 +511,7 @@
       <workItem from="1479193765968" duration="944000" />
       <workItem from="1479661984851" duration="5881000" />
       <workItem from="1480257468000" duration="5811000" />
-      <workItem from="1480867581021" duration="1272000" />
+      <workItem from="1480867581021" duration="1370000" />
     </task>
     <task id="LOCAL-00001" summary="Updated our Ruby Code on Getters and Setters">
       <created>1478457525013</created>
@@ -494,7 +524,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26355000" />
+    <option name="totallyTimeSpent" value="26453000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="24" width="1319" height="744" extended-state="6" />
