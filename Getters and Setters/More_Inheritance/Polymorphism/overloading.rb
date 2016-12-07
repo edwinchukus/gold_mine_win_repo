@@ -1,7 +1,7 @@
 class Overloading
 
   def initialize(*admission_credentials)
-    @student_id, @student_name, @student_course = admission_credentials
+    @student_id, @student_name, @student_course = (admission_credentials)
   end
 
 
