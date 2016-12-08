@@ -1,7 +1,7 @@
 class Overloading
 
   def initialize(*admission_credentials)
-    @student_id, @student_name, @student_course = (admission_credentials)
+    @student_id, @student_name, @student_course, @accommodation_name = (admission_credentials)
   end
 
 
@@ -18,6 +18,15 @@ class Overloading
       puts ("#{@student_name} is my full name")
     else
       puts ("wrong name")
+    end
+  end
+
+  def locate_student_residence(*student_living)
+    if student_living.include?(@accommodation_name)
+      puts ("I am #{@student_name} with ID number #{@student_id}, studying #{@student_course} and looking for the
+direction to #{@accommodation_name}")
+    else
+      puts ("I cant help you")
     end
   end
 end

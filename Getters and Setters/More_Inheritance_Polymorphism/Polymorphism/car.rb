@@ -3,7 +3,7 @@ require_relative'../Polymorphism/overloading'
 class Car < Overloading
 
   def initialize(*admission_credentials)
-    @student_id, @student_name, @student_course = (admission_credentials)
+    @student_id, @student_name, @student_course, @accommodation_name = (admission_credentials)
     #super (admission_credentials)
   end
 
