@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ddffc8b-eaf9-466e-8503-cc3799dcb195" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../More_Inheritance_Polymorphism/.idea/More_Inheritance.iml" afterPath="$PROJECT_DIR$/../More_Inheritance_Polymorphism/.idea/More_Inheritance.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../More_Inheritance_Polymorphism/Polymorphism/car.rb" afterPath="$PROJECT_DIR$/../More_Inheritance_Polymorphism/Polymorphism/car.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../More_Inheritance_Polymorphism/Polymorphism/overloading.rb" afterPath="$PROJECT_DIR$/../More_Inheritance_Polymorphism/Polymorphism/overloading.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../More_Inheritance_Polymorphism/Polymorphism/runner_file.rb" afterPath="$PROJECT_DIR$/../More_Inheritance_Polymorphism/Polymorphism/runner_file.rb" />
-    </list>
+    <list default="true" id="8ddffc8b-eaf9-466e-8503-cc3799dcb195" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -393,12 +387,12 @@
       <workItem from="1481143919339" duration="565000" />
       <workItem from="1481144638655" duration="536000" />
       <workItem from="1481145237212" duration="3726000" />
-      <workItem from="1481194691301" duration="7971000" />
+      <workItem from="1481194691301" duration="8532000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30914000" />
+    <option name="totallyTimeSpent" value="31475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="0" width="1350" height="728" extended-state="1" />
