@@ -1,4 +1,4 @@
-require_relative "../More_Inheritance/drinks"
+require_relative "../More_Inheritance_Polymorphism/drinks"
 
 class Brandy < Drinks
   def initialize(drink_name)
