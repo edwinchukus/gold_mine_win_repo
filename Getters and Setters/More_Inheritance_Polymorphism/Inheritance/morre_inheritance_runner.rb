@@ -1,5 +1,5 @@
-require_relative "../More_Inheritance/drinks"
-require_relative "../More_Inheritance/brandy"
+require_relative "../More_Inheritance_Polymorphism/drinks"
+require_relative "../More_Inheritance_Polymorphism/brandy"
 
 get_drunk = Brandy.new(" Whisky ")
 soft_drink = Drinks.new(" Orange Juice ")

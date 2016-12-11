@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="RUBY_MODULE" version="4">
   <component name="ModuleRunConfigurationManager">
-    <configuration default="false" name="formula_one" type="RubyRunConfigurationType" factoryName="Ruby">
-      <module name="gold_mine_win_repo" />
+    <configuration default="false" name="runner_file" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="More_Inheritance" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/innoson_company" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="C:\Users\Toshiba\Desktop\Ruby Projects\gold_mine_win_repo\Getters and Setters\More_Inheritance_Polymorphism\Polymorphism" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -12,15 +12,14 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/innoson_company/formula_one.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="C:\Users\Toshiba\Desktop\Ruby Projects\gold_mine_win_repo\Getters and Setters\More_Inheritance_Polymorphism\Polymorphism\runner_file.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-<<<<<<< HEAD
-    <configuration default="false" name="runner_file_inheritance" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="gold_mine_win_repo" />
+    <configuration default="false" name="overloading" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="More_Inheritance" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Hashes and Inheritance" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="C:\Users\Toshiba\Desktop\Ruby Projects\gold_mine_win_repo\Getters and Setters\More_Inheritance_Polymorphism\Polymorphism" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -28,15 +27,14 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Hashes and Inheritance/runner_file_inheritance.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="C:\Users\Toshiba\Desktop\Ruby Projects\gold_mine_win_repo\Getters and Setters\More_Inheritance_Polymorphism\Polymorphism\overloading.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="person_runner_file" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="gold_mine_win_repo" />
+    <configuration default="false" name="car" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="More_Inheritance" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Human Being" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="C:\Users\Toshiba\Desktop\Ruby Projects\gold_mine_win_repo\Getters and Setters\More_Inheritance_Polymorphism\Polymorphism" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -44,15 +42,14 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Human Being/person_runner_file.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="C:\Users\Toshiba\Desktop\Ruby Projects\gold_mine_win_repo\Getters and Setters\More_Inheritance_Polymorphism\Polymorphism\car.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="polymorphism_person" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="gold_mine_win_repo" />
+    <configuration default="false" name="car (1)" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="More_Inheritance" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Human Being" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="C:\Users\Toshiba\Desktop\Ruby Projects\gold_mine_win_repo\Getters and Setters\More_Inheritance_Polymorphism\Polymorphism" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -60,15 +57,14 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Human Being/polymorphism_person.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="C:\Users\Toshiba\Desktop\Ruby Projects\gold_mine_win_repo\Getters and Setters\More_Inheritance_Polymorphism\Polymorphism\car.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="polymorphism_inheritance_person" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="gold_mine_win_repo" />
+    <configuration default="false" name="runner_file (1)" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="More_Inheritance" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Human Being" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Polymorphism" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -76,29 +72,10 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Human Being/polymorphism_inheritance_person.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Polymorphism/runner_file.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="poly_Iher_runner_file" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="gold_mine_win_repo" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Human Being" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Human Being/poly_Iher_runner_file.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method />
-    </configuration>
-=======
->>>>>>> 3a46da0858db85a17e232e1343b031b5c8988ca2
   </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
