@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" project-jdk-name="ruby-1.9.3-p551" project-jdk-type="RUBY_SDK" />
+</project>
+
+=======
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
@@ -10,5 +15,6 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="ruby-1.9.3-p551" project-jdk-type="RUBY_SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="ruby-2.0.0-p648" project-jdk-type="RUBY_SDK" />
 </project>
+>>>>>>> a19158aeddbbef85c4bdb172d146eedf6709d925
