@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ddffc8b-eaf9-466e-8503-cc3799dcb195" name="Default" comment="" />
+    <list default="true" id="8ddffc8b-eaf9-466e-8503-cc3799dcb195" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Inheritance/brandy.rb" afterPath="$PROJECT_DIR$/Inheritance/brandy.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Inheritance/morre_inheritance_runner.rb" afterPath="$PROJECT_DIR$/Inheritance/morre_inheritance_runner.rb" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,9 +14,11 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/More_Inheritance@overloading.coverage" NAME="overloading Coverage Results" MODIFIED="1481137249507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Polymorphism" MODULE_NAME="More_Inheritance" />
+    <SUITE FILE_PATH="coverage/More_Inheritance_Polymorphism@runner_file__1_.coverage" NAME="runner_file (1) Coverage Results" MODIFIED="1481914648444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Polymorphism" MODULE_NAME="More_Inheritance" />
     <SUITE FILE_PATH="coverage/More_Inheritance@runner_file.coverage" NAME="runner_file Coverage Results" MODIFIED="1481148491927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Polymorphism" MODULE_NAME="More_Inheritance" />
     <SUITE FILE_PATH="coverage/More_Inheritance@modules.coverage" NAME="modules Coverage Results" MODIFIED="1481139063668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Polymorphism" MODULE_NAME="More_Inheritance" />
     <SUITE FILE_PATH="coverage/More_Inheritance@car__1_.coverage" NAME="car (1) Coverage Results" MODIFIED="1481141378330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Polymorphism" MODULE_NAME="More_Inheritance" />
+    <SUITE FILE_PATH="coverage/More_Inheritance_Polymorphism@morre_inheritance_runner.coverage" NAME="morre_inheritance_runner Coverage Results" MODIFIED="1481916931050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Inheritance" MODULE_NAME="More_Inheritance" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -24,31 +29,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="car.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Polymorphism/car.rb">
+      <file leaf-file-name="drinks.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Inheritance/drinks.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="runner_file.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Polymorphism/runner_file.rb">
+      <file leaf-file-name="brandy.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Inheritance/brandy.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <state relative-caret-position="0">
+              <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="overloading.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Polymorphism/overloading.rb">
+      <file leaf-file-name="morre_inheritance_runner.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Inheritance/morre_inheritance_runner.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="192">
+              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -72,8 +77,10 @@
         <option value="$PROJECT_DIR$/Polymorphism/student.rb" />
         <option value="$PROJECT_DIR$/Polymorphism/modules.rb" />
         <option value="$PROJECT_DIR$/Polymorphism/overloading.rb" />
-        <option value="$PROJECT_DIR$/Polymorphism/runner_file.rb" />
         <option value="$PROJECT_DIR$/Polymorphism/car.rb" />
+        <option value="$PROJECT_DIR$/Polymorphism/runner_file.rb" />
+        <option value="$PROJECT_DIR$/Inheritance/brandy.rb" />
+        <option value="$PROJECT_DIR$/Inheritance/morre_inheritance_runner.rb" />
       </list>
     </option>
   </component>
@@ -104,31 +111,26 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="More_Inheritance" />
+              <option name="myItemId" value="More_Inheritance_Polymorphism" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="More_Inheritance" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Polymorphism" />
+              <option name="myItemId" value="More_Inheritance_Polymorphism" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="More_Inheritance" />
+              <option name="myItemId" value="More_Inheritance_Polymorphism" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="More_Inheritance" />
+              <option name="myItemId" value="More_Inheritance_Polymorphism" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -138,6 +140,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -153,8 +156,8 @@
       <recent name="C:\Users\Toshiba\Desktop\Ruby Projects\gold_mine_win_repo\Getters and Setters\More_Inheritance\Inheritance" />
     </key>
   </component>
-  <component name="RunManager" selected="Ruby.runner_file">
-    <configuration default="false" name="runner_file" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+  <component name="RunManager" selected="Ruby.morre_inheritance_runner">
+    <configuration default="false" name="runner_file (1)" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="More_Inheritance" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Polymorphism" />
@@ -172,7 +175,7 @@
     <configuration default="false" name="overloading" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="More_Inheritance" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Polymorphism" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/../../../../gold_mine_win_repo/Getters and Setters/More_Inheritance_Polymorphism/Polymorphism" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -180,14 +183,14 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Polymorphism/overloading.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/../../../../gold_mine_win_repo/Getters and Setters/More_Inheritance_Polymorphism/Polymorphism/overloading.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
     <configuration default="false" name="car" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="More_Inheritance" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Polymorphism" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/../../../../gold_mine_win_repo/Getters and Setters/More_Inheritance_Polymorphism/Polymorphism" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -195,14 +198,14 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Polymorphism/car.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/../../../../gold_mine_win_repo/Getters and Setters/More_Inheritance_Polymorphism/Polymorphism/car.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
     <configuration default="false" name="car (1)" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="More_Inheritance" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Polymorphism" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/../../../../gold_mine_win_repo/Getters and Setters/More_Inheritance_Polymorphism/Polymorphism" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -210,7 +213,22 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Polymorphism/car.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/../../../../gold_mine_win_repo/Getters and Setters/More_Inheritance_Polymorphism/Polymorphism/car.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="morre_inheritance_runner" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="More_Inheritance" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Inheritance" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Inheritance/morre_inheritance_runner.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
@@ -334,18 +352,20 @@
       <envs />
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.runner_file" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Ruby.runner_file (1)" />
       <item index="1" class="java.lang.String" itemvalue="Ruby.overloading" />
       <item index="2" class="java.lang.String" itemvalue="Ruby.car" />
       <item index="3" class="java.lang.String" itemvalue="Ruby.car (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.morre_inheritance_runner" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.runner_file" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.car (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.car" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.overloading" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Ruby.morre_inheritance_runner" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.runner_file (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.car (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.car" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.overloading" />
       </list>
     </recent_temporary>
   </component>
@@ -366,22 +386,23 @@
       <workItem from="1481143919339" duration="565000" />
       <workItem from="1481144638655" duration="536000" />
       <workItem from="1481145237212" duration="3726000" />
+      <workItem from="1481912406831" duration="2615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22943000" />
+    <option name="totallyTimeSpent" value="25558000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="0" width="1350" height="728" extended-state="0" />
-    <editor active="true" />
+    <frame x="10" y="0" width="1350" height="728" extended-state="1" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.265674" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2711599" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29345796" sideWeight="0.24373041" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29345796" sideWeight="0.2484326" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897195" sideWeight="0.26097178" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29345796" sideWeight="0.7562696" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29345796" sideWeight="0.7515674" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -408,6 +429,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Polymorphism/car.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Polymorphism/runner_file.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Polymorphism/overloading.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Polymorphism/car.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="888">
@@ -480,10 +525,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Inheritance/morre_inheritance_runner.rb">
+    <entry file="file://$PROJECT_DIR$/Polymorphism/car.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Polymorphism/runner_file.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Polymorphism/overloading.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -499,31 +560,15 @@
     <entry file="file://$PROJECT_DIR$/Inheritance/brandy.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Polymorphism/overloading.rb">
+    <entry file="file://$PROJECT_DIR$/Inheritance/morre_inheritance_runner.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Polymorphism/car.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Polymorphism/runner_file.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state relative-caret-position="192">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding />
         </state>
       </provider>
